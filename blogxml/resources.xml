@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+	<title>Resources</title>
+	<content>
+        <ul>
+		<h1>
+			A Reference page to my Resources
+		</h1>
+		<p>
+			<ol>
+				<li>16 bit RISC processor<a href = https://github.com/dtbulmerJRs/RISC16.git>16RISC</a>
+				</li>
+			</ol>
+		</p>
+	</ul>
+	</content>
+</post>

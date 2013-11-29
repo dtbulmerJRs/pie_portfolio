@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>DBULMER WEB PORTFOLIO
+		{% if title %}
+		:{{ title }}
+		{% else %}
+
+		{% endif %} 
+		- WEB,SCRIPT,EMBEDDED
+		</title>
+		<link rel="stylesheet" href="css/style.css" />
+	
+	</head>
+	<body>
+		<div class="wrapper">
+			<header>
+				<h1><a href="index.html">DBULMER</a></h1>
+				<ul> 
+				{% for post in posts %}
+				{% if post.current %}
+				<li class="select"><a href="#">{{ post.title }}</a></li>
+				{% else %}
+				<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+				{% endif %}
+				{% endfor %}
+				</ul>
+			</header>
+			<div style="background:#000;width:350px; height:260px;font:0px sans-serif;text-align:left;"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" id="cdtw" width="350" height="240" style="outline:none"><param name="movie" value="http://countingdownto.com/c/w.swf" /><param name="flashvars" value="eid=391849" /><param name="allowscriptaccess" value="always" /><param name="bgcolor" value="#000000" /><embed name="cdtw" src="http://countingdownto.com/c/w.swf" flashvars="eid=391849" type="application/x-shockwave-flash" width="350" height="240" allowscriptaccess="always" bgcolor="#000000" style="outline:none"></embed></object><br/> <a href="http://countingdownto.com" style="font:bold 8px Arial;padding-left:19px;color:#444;">WEBSITE COUNTDOWN CLOCK</a></div>
+	<div id="content">
+		{% block over_content %}{% endblock %}
+	</div>
+	<footer>
+	<p>
+	&copy; CSULB - Derrik Bulmer
+	</p>
+	<p>
+	{{ date }}
+	</p>
+	<p>
+		<a href="http://www.freedomain.co.nr/" title="Free Domain Name"><img src="http://oeueuza.imdrv.net/animg7.gif" alt="Free Domain Name" style="width:88px;height:31px;border:0;" /></a>
+	</p>
+	</footer>
+	</div>
+	</body>
+</html>

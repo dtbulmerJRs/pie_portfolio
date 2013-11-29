@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <title>Home</title>
+    <content>
+		<h2>
+			About the Portfolio:  A collection of samples of my experience
+		</h2>
+		<p>
+			<ul>
+				<li>Computer Architecture Hardware (16-bit RISC Processesor)</li>
+				<ul>
+					<li>RTL Diagram</li>
+					<li>Verilog Testbenches</li>
+					<li>Documentation</li>
+				</ul>
+				<li>Embedded Hardware (Embedded C Atmel 8051)</li>
+				<ul>
+					<li>RTL Diagram</li>
+					<li>Verilog Testbenches</li>
+					<li>Documentation</li>
+				</ul>
+				<li>Web Scripting</li>
+				<ul>
+					<li>Python XML to HTML parsing</li>
+					<li>XML design for webpages and content</li>
+				</ul>
+				<li>Bash Scripting</li>
+				<ul>
+					<li>Printing</li>
+					<li>Editing Text</li>
+					<li>Converting Files</li>
+				</ul>
+				<li>Workshop</li>
+				<ul>
+					<li>Modding</li>
+					<li>Editing Text</li>
+					<li>Converting Files</li>
+				</ul>
+			</ul>
+		</p>
+    </content>
+    <extracss>
+    </extracss>
+    <extrajs>
+	function url_update(element){
+    base_url = this;
+    window.parent.location.href = base_url + element.getAttribute('value');
+}
+	</extrajs>
+</post>
+

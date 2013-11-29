@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+	<title>Shell Scripts</title>
+	<content>
+        <ul>
+		<h1>
+			A Reference page to my Shell Script Samples
+		</h1>
+		<p>
+			<ol>
+				<li><a href = https://github.com/dtbulmerJRs/bashing.git>shell scripts for the unix system</a>
+				</li>
+			</ol>
+		</p>
+	</ul>
+	</content>
+</post>

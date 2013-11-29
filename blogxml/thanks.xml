@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <title>Acknowledgements</title>
+    <content>
+        <h2>
+            Whom Thanks Is Due
+        </h2>
+        <p>
+			Project Manager: Derrik Bulmer
+		</p>
+		<p>
+			Project Development: Craig Thormodsen
+		</p>
+            Webpage script: <a href="http://www.davidnuon.com"> David Nuon </a>
+		<p>
+            Special Thanks:
+            <ul>
+                <li>
+                    <p>
+                        Association of Computing Machinery CSULB chapter:
+                    </p>
+                    <p>
+                        For hosting the project.
+                    </p>
+                    <p>
+                        <a href = http://csulb.acm.org/>Go Beach!</a>
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Civilization Fanatics Center:
+                    </p>
+                    <p>
+                        This forum and download center has taught me alot, and the resources for all things pertaining to modding the Civilization games
+                    </p>
+                    <p>
+                        Here is the link: <a href = http://www.civfanatics.com/>civfanatics</a>
+                    </p>
+                    <p>
+                        My gratitutde extends to the following user names on civilization fanatics center for provind useful tutorials:
+                    </p>
+                    <p>
+                        <ul>
+                            <li>
+                                <p>
+                                    saibotlieh (for billboard)
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    Deanej (for SDK tutorial)
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    Baldyr (for civplayer.py)
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    zafzo (for poison city mod)
+                                </p>
+                            </li>
+                        </ul>  
+                    </p>                  
+                </li>
+                    <p>
+                        The Elder Scrolls Nexus:
+                    </p>
+                    <p>
+                        This modding community provided the know-how to install nif scripts for Blender.  So an endorsement for Blender.org for the open source animation software, and niftools for the know-how to use nif files.
+                    </p>
+                    <p>
+                        Here are the links:
+                        <ul>
+                            <li>
+                                <a href = http://www.tesnexus.com>tesnexus</a>
+                            </li>
+                            <li>
+                                <a href = http://www.blender.org>blender</a>
+                            </li>
+                            <li>
+                                <a href = http://niftools.sourceforge.net/wiki/NifTools>niftools</a>
+                            </li>
+                        </ul>
+                    </p>
+
+            </ul>
+        </p>
+    </contents>
+</post>

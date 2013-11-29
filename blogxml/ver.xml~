@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+	<title>Verilog</title>
+	<content>
+        <ul>
+		<h1>
+			A Reference page to my Webscripting Samples
+		</h1>
+		<p>
+			<ol>
+				<li>Python Scripting and XML templates<a href = https://github.com/dtbulmerJRs/PIE2.git>Project PIE</a>
+				</li>
+			</ol>
+		</p>
+	</ul>
+	</content>
+</post>

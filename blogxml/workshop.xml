@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+	<title>Workshop</title>
+	<content>
+        <ul>
+		    <h1>Description</h1>
+		    <p> 
+			    Modders Workshop: 
+			    An Introduction to creating custom content in Civilization 4
+            </p>
+            <p>
+			    Team: 
+			    Craig, David, and Derrik.
+            </p>
+            <p>
+			    What: Modder's Workshop is an attempt to show that creating addons for games is a great activity for those interested in game design. A series of short demos will be prepared for the  College of Engineering organizations, or any one from any field curious about how making your own content for games is a great way to learn game development.
+            </p>
+            <p>
+			    Where: ECS 304 ( the meeting near EAT's office )</li>
+
+			    When: Tuesdays at 2:00 P.M. throughout Fall 2011 semester.
+            </p>
+            <p>
+			    What you can do to prepare:
+                Since you will need blender for the demo, please see the link for installing Blender 2.49b, Nifskope, Python,and PyFFi and follow the instuctions ( since the link was from the modding community for Oblivion, they will tell you to link your Nifskope to the game; you can ignore those instructions )
+            </p>
+            <p>
+			    Another demo will show how programmers can make addons through programming, and the links are listed below for wome great examples of modding tutorials. Next week we will have a custom tutorial involving the programming languages C++, Python, and Lua; you will also be introduced to XML and the DAT file. For that, it might be handy to have a programming IDE such as Visual Studio or a free open source IDE such as Netbeans.
+            </p>
+            <p>
+			    Demos in the future will expand on what was covered in the previous demos.
+            </p>
+            <p>
+			    Links:
+            </p>
+            <ul>
+                <li> 
+			        <a href = http://forums.civfanatics.com/downloads.php?do=file&id=17393>for code files needed.</a>
+                </li>
+                <li> 
+			        <a href = http://www.tesnexus.com/downloads/file.php?id=12248>for installing Blender, Python, Nifskope, and PyFFI</a>
+                </li>
+                <li> 
+			        <a href = http://forums.civfanatics.com/downloads.php?do=file&id=14643>for a simple graphics demo ( Billboard )</a>
+                </li>
+                <li> 
+			        <a href = http://modiki.civfanatics.com/index.php/How_to_Install_the_SDK>for installing the SDK in your IDE </a>
+                </li>
+                <li> 
+			        <a href = http://forums.civfanatics.com/downloads.php?do=file&id=17570>an actual python class demo</a>
+                </li>
+                <li> 
+			        <a href = http://forums.civfanatics.com/showthread.php?t=183339>try adding a mission ( cpp, h, xml)</a>
+                </li>
+                <li> 
+			        <a href = http://people.csail.mit.edu/regina/my_papers/civ11.pdf>example of real world CS application to modding(pdf)</a>
+                </li>
+             </ul>
+             <p>
+			    Where to get the graphics files for the game:
+             </p>
+             <ul>  
+                <li>
+			        <a href = http://forums.civfanatics.com/downloads.php?do=cat&id=5>the database for the units ( tanks, planes, warriors, ninjas, pirates, etc)</a>
+                </li>
+                <li>
+			        <a href = http://forums.civfanatics.com/downloads.php?do=cat&id=37>database for the leader-heads ( Attila, Saladin, Gandhi, Genghis Khan, etc)</a>
+                </li>
+            </ul>
+	</content>
+</post>

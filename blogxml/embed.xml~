@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+	<title>Embedded</title>
+	<content>
+        <ul>
+		<h1>
+			A Reference page to my Embedded Samples
+		</h1>
+		<p>
+			<ol>
+				<li><a href = https://github.com/dtbulmerJRs/FSM_Traffic_Controller.git>a traffic lights sequencer in C for 8051</a>
+				</li>
+			</ol>
+		</p>
+	</ul>

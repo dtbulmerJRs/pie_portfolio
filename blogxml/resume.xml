@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <title>Resume</title>
+    <content>
+		<h2>Direct Link to Resume</h2>
+		<p>
+			If by any chance the embedded Google Docs document viewer is not displaying the resume below,
+			then here is a <a href="http://students.cecs.csulb.edu/~dbulmeri/cecsresume/Derrik_Trevor_Bulmer_II_CECS_Resume.pdf">direct link to resume</a>
+		</p>
+	<iframe src="http://docs.google.com/gview?url=https://dl.dropboxusercontent.com/u/104384245/cecsresume/Derrik_Trevor_Bulmer_II_CECS_Resume.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>
+</content>
+</post>
+		
+
+
+

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <title>Resume</title>
+    <content>
+        <ul>
+            <li>
+                <h3>Professional Objective</h3>
+                <p>
+                    Long-term employment that enables advancement in learning
+                    embedded c, web design, and scripting operating systems resources as well as
+                    developing skills in software engineering design, using the field's industrial
+                    and commercial proven skill sets, such as model prototyping, testbenching design,
+                    and algorithmic state machine diagramming to prove theory before coding.
+                </p>
+                <h3>Skill Sets<h3>
+                <p>
+                    <h2>Web Scripting in Python</h2>
+                    <p>
+                        Designed personal webportfolio using Jinja 2 python based html templating
+                        system, combined with a models template that is django like.  Have mild experience
+                        in Django, Jinja, and Flask.
+                    </p>
+                    <h2>RTL Schematics for Verilog</h2>
+                    <p>
+                        Designed UART and PS2 systems in Xilinx ISE, and can design top level modules in
+                        schematic design or structural verilog.  Can draw modules of small processor in
+                        CAD, or by hand.
+                    </p>
+                    <h2>Embedded C</h2>
+                    <p>
+                        Can compile and link C programs on the TI Launchpad MSP430 in linux, using make files.
+                        Full knowledge on Atmel 8051 board programming in Kiel uvision IDE, including using the LCD,
+                        and using Assembly language as an alternative to C language.
+                    </p>
+                    <h2>Sqlite with Python support<h2>
+                    <p>
+                        Understand Relational Algebra Diagrams for Queries, BCNF Decomposition for Normalization of table sets,
+
+                        Incorpate sqlite database in python module, including a pyQt python module.
+                    </p>
+                    <h2>ACM Programming Competition Problems</h2>
+                    <p>
+                        Worked collaboratively with a partner on Problem F of the 1995 ACM Scholastic Programming Contest Finals.
+                        The problem can be viewed at<a href="http://www.karrels.org/Ed/ACM/95/prob_f.html">http://www.karrels.org/Ed/ACM/95/prob_f.html</a>
+                        and is listed on my web porfolio.
+                    </p>
+		    <h2>Bash Shell Scripting</h2>
+		    <p>
+			Set up scripts for file operations in a directory and all sub-directories such as sending all text based documents to a specific wireless print station, converting formats of audio files, and running various other metrics on all files and writing results to log files.
+		    </p>
+                </p>
+		<h3>Work Experience</h3>
+		<p>
+			<ul>
+				<li>
+					<h2>Library Page</h2>
+					<ul>
+						<li>
+							<h1>Duration</h1>
+							<p>2006 - 2010</p>
+						</li>
+						<li>
+							<h1>Location</h1>
+							<p>Long Beach Public Library</p>
+							<p>Main Branch and El Dorado Branch
+						</li>
+						<li>
+							<h1>Tasks</h1>
+							<ul>
+								<li><p>Sort Books according to Dewey Decimal System.  Also refered to Library of Congress method.
+								
+									</p>
+								</li>
+								<li>
+									<p>Checkout library materials to library patrons.
+								
+									</p>
+								</li>
+							<iframe src="http://docs.google.com/gview?url=http://example.com/mypdf.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>	<li><p>Provide assistance to Homework helper, Story-Time leader, janitorial staff, and the managing Librarians, such as moving desks and chairs, no more than about twenty pounds, on a regular basis.
+								
+									</p>
+								</li>
+						
+							</ul>
+						</li>
+					</ul>
+				</li>
+
+			</ul>
+		</p>
+		</li>
+	</ul>
+	<iframe src="http://docs.google.com/gview?url=http://example.com/mypdf.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>
+</content>
+</post>
+		
+
+
+
